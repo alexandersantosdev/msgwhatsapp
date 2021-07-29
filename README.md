@@ -2,4 +2,4 @@
 
 ### Utilizando simplemente html5, CSS e JavaScript
 
-![Tela principal](https://github.com/alexandersantosdev/msgwhatsapp/blob/main.png)
+![Tela principal](https://github.com/alexandersantosdev/msgwhatsapp/blob/main/main.PNG)
