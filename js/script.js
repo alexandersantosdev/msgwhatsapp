@@ -10,7 +10,6 @@ const setDados = (valor, name) => {
     if (valor == null || isNaN(valor)) {
         alert("Digite um numero válido")
         document.querySelector(`#${name}`).value = ''
-        valor = ''
         return
     }
 
